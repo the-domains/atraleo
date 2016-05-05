@@ -5,10 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Deutsche Let's Plays"
-datePublished: '2016-05-05T09:30:58.649Z'
-dateModified: '2016-05-05T09:30:58.223Z'
+datePublished: '2016-05-05T09:32:53.076Z'
+dateModified: '2016-05-05T09:32:36.262Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-05-deutsche-lets-plays.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-deutsche-lets-plays.md
 url: deutsche-lets-plays/index.html
 _type: WebPage
 
