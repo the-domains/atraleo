@@ -16,8 +16,8 @@ keywords:
   - sgtkeeneye
   - docm77
 description: 'A deep space adventure by Sean Clark in collaboration with filmmaker Steven Spielberg.  A radio telescope in Borneo detects the approach of a large asteroid on a collision course with Earth; authorities dub it "Attila" after the ancient conqueror Attila the Hun. Scientists determine explosives planted on the surface of the asteroid may divert it into a stable orbit around Earth. A five-person expedition use the Space Shuttle Atlantis to rendezvous with the asteroid and plant the charges.'
-datePublished: '2016-05-05T19:47:55.347Z'
-dateModified: '2016-05-05T19:44:26.823Z'
+datePublished: '2016-05-05T19:48:48.119Z'
+dateModified: '2016-05-05T19:48:44.097Z'
 author:
   - name: Atraleo
     url: 'https://www.youtube.com/channel/UCORHZMUdg21WzVAD2I81G_w'
