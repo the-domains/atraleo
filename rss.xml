@@ -4,8 +4,15 @@
         <description><![CDATA[Atraleo | Let's Play]]></description>
         <link>http://atraleo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 16:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 16:49:37 GMT</lastBuildDate>
         <atom:link href="http://atraleo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Dig - E06 - Patient 0]]></title>
+            <description><![CDATA[<article><h1>The Dig - E06 - Patient 0</h1><p>Zombie!!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f752349a2e0182a68a44384357c3902c1c85d788.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=3l_XZo1SRJE</link>
+            <guid isPermaLink="false">b5c58a99-1c72-4f3b-b092-1bf5ed0a2616</guid>
+            <pubDate>Thu, 05 May 2016 16:49:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Dig - E05 - There shall be light]]></title>
             <description><![CDATA[<article><h1>The Dig - E05 - There shall be light</h1><p>Intergalactic reactor repair service. I guess that is technically in the job description of an astronaut.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d56bafc222faa83a6daf39aaec5e2e5712d19f01.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=rNzsPkBOrW4</link>
             <guid isPermaLink="false">597773fe-79fd-4b53-b10d-74534f822c1b</guid>
             <pubDate>Thu, 05 May 2016 15:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RimWorld Alpha9 - E03 - Forschungsprojekte - Deutsch]]></title>
-            <description><![CDATA[<article><h1>RimWorld Alpha9 - E03 - Forschungsprojekte - Deutsch</h1><p>Mit unseren Holzbaukünsten alleine kommen wir nicht vom Planeten. Zeit für ein paar neue Erkenntnisse. Aufgenommen mit RimWorld Alpha 9e.﻿</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/095851336264ef34703c281e59168d1a53802fc1.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=_POWU-FkseQ</link>
-            <guid isPermaLink="false">a3bee6ca-f1d4-422b-bfe0-f48b66fd7ce5</guid>
-            <pubDate>Thu, 05 May 2016 14:59:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
