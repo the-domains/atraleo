@@ -4,8 +4,15 @@
         <description><![CDATA[Atraleo | Let's Play]]></description>
         <link>http://atraleo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 16:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 16:45:01 GMT</lastBuildDate>
         <atom:link href="http://atraleo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Dig - E05 - There shall be light]]></title>
+            <description><![CDATA[<article><h1>The Dig - E05 - There shall be light</h1><p>Intergalactic reactor repair service. I guess that is technically in the job description of an astronaut.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d56bafc222faa83a6daf39aaec5e2e5712d19f01.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=VXXMuCff1ds</link>
+            <guid isPermaLink="false">28a4b29f-a9e0-4c35-8a84-ec66f337544b</guid>
+            <pubDate>Thu, 05 May 2016 16:44:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Dig - E04 - Double episode: Death of a team member, part 2 of 2]]></title>
             <description><![CDATA[<article><h1>The Dig - E04 - Double episode: Death of a team member, part 2 of 2</h1><p>The drama continues. Conclusion of our double episode.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc7ea9e8c6d7ac54ae5d7ef6df4d04d7984d3c25.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=_POWU-FkseQ</link>
             <guid isPermaLink="false">a3bee6ca-f1d4-422b-bfe0-f48b66fd7ce5</guid>
             <pubDate>Thu, 05 May 2016 14:59:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RimWorld Alpha9 - E02 - Der arme Viktor - Deutsch]]></title>
-            <description><![CDATA[<article><h1>RimWorld Alpha9 - E02 - Der arme Viktor - Deutsch</h1><p>In der zweiten Episode wird fleißig weiter an der Basis gebaut. Viktor hat eine harte Zeit. Aufgenommen mit RimWorld Alpha 9e.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d230fa23d25346219b74831adc8b905aa3be5278.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=lBOKyh_Xm3Y</link>
-            <guid isPermaLink="false">fd31e517-9d19-4b18-8ade-d7103aff8cb4</guid>
-            <pubDate>Thu, 05 May 2016 14:48:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
