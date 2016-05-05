@@ -1,6 +1,6 @@
 name: Atraleo
 favicon: null
-layout_spectrum: 0.49428
+layout_spectrum: 0.5003
 typography_spectrum: 0.15398
 title: "Atraleo | Let's Play"
 cta:
@@ -23,7 +23,7 @@ color:
     - '#717171'
     - '#afafaf'
   brandStrength: 0
-  lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 0
+  lightness: 0.125
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
