@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=5kJCG1SRyYU'
 inLanguage: null
 keywords: []
 description: 'RimWord ist eine Sci-Fi Kolonie-Simulation. Das Spiel ist noch in einer Alpha Version, macht aber schon sehr viel Spaß. In RimWorld begleitetest du drei Überlebende eines abgestürzten Raumkreuzers beim Bau einer Kolonie auf einer Grenzwelt am Rande der Galaxie. Aufgenommen mit RimWorld Alpha 9e. '
-datePublished: '2016-05-05T19:18:09.037Z'
-dateModified: '2016-05-05T19:17:50.181Z'
+datePublished: '2016-05-05T19:19:20.049Z'
+dateModified: '2016-05-05T19:19:13.874Z'
 author:
   - name: Atraleo
     url: 'https://www.youtube.com/channel/UCORHZMUdg21WzVAD2I81G_w'
