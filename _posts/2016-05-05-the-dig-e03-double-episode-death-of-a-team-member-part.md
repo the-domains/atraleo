@@ -16,8 +16,8 @@ keywords:
   - walkthrough
   - 1080p
 description: 'A deep space adventure by Sean Clark in collaboration with filmmaker Steven Spielberg. A radio telescope in Borneo detects the approach of a large asteroid on a collision course with Earth; authorities dub it "Attila" after the ancient conqueror Attila the Hun.'
-datePublished: '2016-05-05T10:28:38.339Z'
-dateModified: '2016-05-05T10:28:26.729Z'
+datePublished: '2016-05-05T10:36:34.265Z'
+dateModified: '2016-05-05T10:34:18.471Z'
 author:
   - name: Atraleo
     url: 'https://www.youtube.com/channel/UCORHZMUdg21WzVAD2I81G_w'
@@ -61,6 +61,7 @@ app_links:
     namespace: google
     type: ios
 title: 'The Dig - E03 - Double episode: Death of a team member, part 1 of 2'
+sourcePath: _posts/2016-05-05-the-dig-e03-double-episode-death-of-a-team-member-part.md
 authors: []
 publisher:
   name: YouTube
@@ -68,7 +69,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-sourcePath: _posts/2016-05-05-the-dig-e03-double-episode-death-of-a-team-member-part.md
 _type: VideoObject
 _context: 'http://schema.org'
 
