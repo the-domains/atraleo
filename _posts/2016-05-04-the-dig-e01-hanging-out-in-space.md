@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Atraleo
-    url: 'https://www.youtube.com/channel/UCORHZMUdg21WzVAD2I81G_w'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=573cwJlOA3I'
+inLanguage: en
 keywords:
   - duration
   - views
@@ -20,8 +15,14 @@ keywords:
   - bruno
   - sgtkeeneye
   - docm77
-description: 'Playlist ► https://www.youtube.com/playlist?list=PLFk6NTKsdfR-hPRBgcm59RCBIlvw9ssOU ························································································································································ A deep space adventure by Sean Clark in collaboration with filmmaker Steven Spielberg. A radio telescope in Borneo detects the approach of a large asteroid on a collision course with Earth; authorities dub it "Attila" after the ancient conqueror Attila the Hun.'
-inLanguage: en
+description: 'A deep space adventure by Sean Clark in collaboration with filmmaker Steven Spielberg. A radio telescope in Borneo detects the approach of a large asteroid on a collision course with Earth; authorities dub it "Attila" after the ancient conqueror Attila the Hun.'
+datePublished: '2016-05-05T08:05:46.675Z'
+dateModified: '2016-05-04T23:24:54.377Z'
+author:
+  - name: Atraleo
+    url: 'https://www.youtube.com/channel/UCORHZMUdg21WzVAD2I81G_w'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=573cwJlOA3I&feature=applinks'
     type: ios
@@ -59,15 +60,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=573cwJlOA3I'
 title: The Dig - E01 - Hanging out in space
-datePublished: '2016-05-04T23:16:47.382Z'
-dateModified: '2016-05-04T23:16:07.091Z'
-starred: false
 sourcePath: _posts/2016-05-04-the-dig-e01-hanging-out-in-space.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
