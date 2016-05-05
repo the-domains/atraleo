@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=5kJCG1SRyYU'
 inLanguage: null
 keywords: []
 description: 'RimWord ist eine Sci-Fi Kolonie-Simulation. Das Spiel ist noch in einer Alpha Version, macht aber schon sehr viel Spaß.  In RimWorld begleitetest du drei Überlebende eines abgestürzten Raumkreuzers beim Bau einer Kolonie auf einer Grenzwelt am Rande der Galaxie. RimWorld wurde inspiriert vom Space Western Vibe von Firefly, der Simulationstiefe von Dwarf Fortress und der epischen Ausmaße von Dune und Warhammer 40.000.  Aufgenommen mit RimWorld Alpha 9e.'
-datePublished: '2016-05-05T19:41:06.419Z'
-dateModified: '2016-05-05T19:41:02.987Z'
+datePublished: '2016-05-05T19:48:05.052Z'
+dateModified: '2016-05-05T19:47:48.990Z'
 author:
   - name: Atraleo
     url: 'https://www.youtube.com/channel/UCORHZMUdg21WzVAD2I81G_w'
