@@ -1,14 +1,15 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: "English Let's Plays"
-datePublished: '2016-05-05T09:15:27.587Z'
-dateModified: '2016-05-05T09:15:06.679Z'
+datePublished: '2016-05-05T09:18:52.589Z'
+dateModified: '2016-05-05T09:18:38.916Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-05-english-lets-plays.md
 authors: []
 publisher:
   name: null
@@ -16,9 +17,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-english-lets-plays.md
 url: english-lets-plays/index.html
-_type: Article
+_type: WebPage
 
 ---
 English Let's Plays
