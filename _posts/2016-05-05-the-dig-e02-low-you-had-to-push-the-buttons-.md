@@ -15,9 +15,9 @@ keywords:
   - yami
   - reijer
   - longplays
-description: 'A deep space adventure by Sean Clark in collaboration with filmmaker Steven Spielberg. A radio telescope in Borneo detects the approach of a large asteroid on a collision course with Earth; authorities dub it "Attila" after the ancient conqueror Attila the Hun.'
-datePublished: '2016-05-05T10:27:34.134Z'
-dateModified: '2016-05-05T10:27:28.683Z'
+description: Hitchhiking accross the galaxy.
+datePublished: '2016-05-05T15:46:45.341Z'
+dateModified: '2016-05-05T15:46:34.180Z'
 author:
   - name: Atraleo
     url: 'https://www.youtube.com/channel/UCORHZMUdg21WzVAD2I81G_w'
