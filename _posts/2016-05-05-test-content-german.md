@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Test Content German
-datePublished: '2016-05-05T09:39:25.071Z'
-dateModified: '2016-05-05T09:38:43.326Z'
+datePublished: '2016-05-05T09:40:42.107Z'
+dateModified: '2016-05-05T09:39:25.860Z'
 title: ''
 author: []
 authors: []
@@ -18,7 +17,8 @@ publisher:
   favicon: null
 starred: false
 sourcePath: _posts/2016-05-05-test-content-german.md
-_type: Blurb
+url: test-content-german/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c928e68-3121-4ed6-b0d9-0facfd87a6ca.png)
