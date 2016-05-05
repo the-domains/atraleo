@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Atraleo | Let's Play]]></title>
+        <description><![CDATA[Atraleo | Let's Play]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 08:31:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Atraleo | Let's Play]]></title>
+            <description><![CDATA[<article><h1>Atraleo | Let's Play</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46405c6777e74b54baf8edecca8c9cd3a2d15208.png"></article>]]></description>
+            <link>atraleo.com</link>
+            <guid isPermaLink="false">4a418263-e871-4bcd-87ee-749e272ee3e3</guid>
+            <pubDate>Thu, 05 May 2016 08:31:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
