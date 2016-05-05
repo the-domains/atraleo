@@ -16,8 +16,8 @@ keywords:
   - haulin
   - junkyard
 description: Wir stellen den Basiseingang fertig und freuen uns auf den nächsten Angriff. Aufgenommen mit RimWorld Alpha 9e.
-datePublished: '2016-05-05T15:28:06.147Z'
-dateModified: '2016-05-05T15:27:59.731Z'
+datePublished: '2016-05-05T15:34:43.269Z'
+dateModified: '2016-05-05T15:34:39.700Z'
 author:
   - name: Atraleo
     url: 'https://www.youtube.com/channel/UCORHZMUdg21WzVAD2I81G_w'
