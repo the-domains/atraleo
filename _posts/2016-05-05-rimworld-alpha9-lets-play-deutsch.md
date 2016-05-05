@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=5kJCG1SRyYU'
 inLanguage: null
 keywords: []
-description: 'RimWord ist eine Sci-Fi Kolonie-Simulation. Das Spiel ist noch in einer Alpha Version, macht aber schon sehr viel Spaß. In RimWorld begleitetest du drei Überlebende eines abgestürzten Raumkreuzers beim Bau einer Kolonie auf einer Grenzwelt am Rande der Galaxie. Aufgenommen mit RimWorld Alpha 9e. '
-datePublished: '2016-05-05T19:28:41.071Z'
-dateModified: '2016-05-05T19:28:25.767Z'
+description: 'RimWord ist eine Sci-Fi Kolonie-Simulation. Das Spiel ist noch in einer Alpha Version, macht aber schon sehr viel Spaß.  In RimWorld begleitetest du drei Überlebende eines abgestürzten Raumkreuzers beim Bau einer Kolonie auf einer Grenzwelt am Rande der Galaxie. RimWorld wurde inspiriert vom Space Western Vibe von Firefly, der Simulationstiefe von Dwarf Fortress und der epischen Ausmaße von Dune und Warhammer 40.000.  Aufgenommen mit RimWorld Alpha 9e.'
+datePublished: '2016-05-05T19:37:17.334Z'
+dateModified: '2016-05-05T19:36:38.028Z'
 author:
   - name: Atraleo
     url: 'https://www.youtube.com/channel/UCORHZMUdg21WzVAD2I81G_w'
@@ -15,6 +15,7 @@ author:
 related: []
 app_links: []
 title: "RimWorld Alpha9 - Let's Play - Deutsch"
+sourcePath: _posts/2016-05-05-rimworld-alpha9-lets-play-deutsch.md
 authors: []
 publisher:
   name: YouTube
@@ -22,7 +23,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
 starred: false
-sourcePath: _posts/2016-05-05-rimworld-alpha9-lets-play-deutsch.md
 _type: VideoObject
 _context: 'http://schema.org'
 
