@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=573cwJlOA3I'
 inLanguage: en
 keywords:
   - duration
@@ -16,8 +15,8 @@ keywords:
   - sgtkeeneye
   - docm77
 description: 'A deep space adventure by Sean Clark in collaboration with filmmaker Steven Spielberg. A radio telescope in Borneo detects the approach of a large asteroid on a collision course with Earth; authorities dub it "Attila" after the ancient conqueror Attila the Hun.'
-datePublished: '2016-05-05T08:05:46.675Z'
-dateModified: '2016-05-04T23:24:54.377Z'
+datePublished: '2016-05-05T08:14:42.904Z'
+dateModified: '2016-05-05T08:07:05.798Z'
 author:
   - name: Atraleo
     url: 'https://www.youtube.com/channel/UCORHZMUdg21WzVAD2I81G_w'
@@ -69,6 +68,7 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
+url: the-dig-e01-hanging-out-in-space/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
