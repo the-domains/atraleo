@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=5kJCG1SRyYU'
 inLanguage: null
 keywords: []
 description: 'RimWord ist eine Sci-Fi Kolonie-Simulation. Das Spiel ist noch in einer Alpha Version, macht aber schon sehr viel Spaß. In RimWorld begleitetest du drei Überlebende eines abgestürzten Raumkreuzers beim Bau einer Kolonie auf einer Grenzwelt am Rande der Galaxie. Aufgenommen mit RimWorld Alpha 9e. '
-datePublished: '2016-05-05T14:26:16.724Z'
-dateModified: '2016-05-05T14:25:46.094Z'
+datePublished: '2016-05-05T19:18:09.037Z'
+dateModified: '2016-05-05T19:17:50.181Z'
 author:
   - name: Atraleo
     url: 'https://www.youtube.com/channel/UCORHZMUdg21WzVAD2I81G_w'
@@ -15,6 +15,7 @@ author:
 related: []
 app_links: []
 title: RimWorld Alpha9 - E01 - Aller Anfang ist schwer - Deutsch
+sourcePath: _posts/2016-05-05-rimworld-alpha9-e01-aller-anfang-ist-schwer-deutsch.md
 authors: []
 publisher:
   name: YouTube
@@ -22,7 +23,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
 starred: false
-sourcePath: _posts/2016-05-05-rimworld-alpha9-e01-aller-anfang-ist-schwer-deutsch.md
 _type: VideoObject
 _context: 'http://schema.org'
 
